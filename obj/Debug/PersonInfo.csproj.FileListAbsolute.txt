@@ -1,0 +1,20 @@
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\PersonInfo\bin\Debug\PersonInfo.exe.config
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\PersonInfo\bin\Debug\PersonInfo.exe
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\PersonInfo\bin\Debug\PersonInfo.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\PersonInfo\obj\Debug\PersonInfo.csprojAssemblyReference.cache
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\PersonInfo\obj\Debug\PersonInfo.exe
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\PersonInfo\obj\Debug\PersonInfo.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\PersonInfo\bin\Debug\PersonInfo.exe.config
+E:\Computing\Year1\Second Semester\Object Oriented Programming\PersonInfo\bin\Debug\PersonInfo.exe
+E:\Computing\Year1\Second Semester\Object Oriented Programming\PersonInfo\bin\Debug\PersonInfo.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\PersonInfo\obj\Debug\PersonInfo.csprojAssemblyReference.cache
+E:\Computing\Year1\Second Semester\Object Oriented Programming\PersonInfo\obj\Debug\PersonInfo.csproj.CoreCompileInputs.cache
+E:\Computing\Year1\Second Semester\Object Oriented Programming\PersonInfo\obj\Debug\PersonInfo.exe
+E:\Computing\Year1\Second Semester\Object Oriented Programming\PersonInfo\obj\Debug\PersonInfo.pdb
+C:\Users\Eneida Lame\Desktop\PersonInfo\bin\Debug\PersonInfo.exe.config
+C:\Users\Eneida Lame\Desktop\PersonInfo\bin\Debug\PersonInfo.exe
+C:\Users\Eneida Lame\Desktop\PersonInfo\bin\Debug\PersonInfo.pdb
+C:\Users\Eneida Lame\Desktop\PersonInfo\obj\Debug\PersonInfo.csprojAssemblyReference.cache
+C:\Users\Eneida Lame\Desktop\PersonInfo\obj\Debug\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Eneida Lame\Desktop\PersonInfo\obj\Debug\PersonInfo.exe
+C:\Users\Eneida Lame\Desktop\PersonInfo\obj\Debug\PersonInfo.pdb
